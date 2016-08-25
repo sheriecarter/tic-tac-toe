@@ -2,7 +2,49 @@
   margin-top: 10px;
 }
 
-.box {
-  border: 1px solid black;
+.box .img-responsive {
+  /*border: 1px solid black;*/
   height: 150px;
+  background-image: url(http://www.clker.com/cliparts/v/E/A/N/W/P/polaroid.svg);
+      margin: 0 auto;
 }
+#flowers {margin-left: 33%;}
+/*#flowers {background-image: url (https://s4.postimg.org/nomdhd6m5/tictactoetitle.jpg);*/
+          /*height-300px;}*/
+#container img {
+   width: 100%;
+
+   margin-bottom: 10%;
+ }
+ body {background-image: url(https://s10.postimg.org/i28ps8os9/Screen_Shot_2016_08_21_at_5_53_05_PM.png);
+background-size: cover;}
+.homebackground {  color: pink;
+                    text-shadow: white;
+                    text-align: center;
+                    margin-top: 20%;
+
+  background-image: url(https://s10.postimg.org/i28ps8os9/Screen_Shot_2016_08_21_at_5_53_05_PM.png);
+background-size: cover;
+  /*background: linear-gradient(to left, brown , black)*/
+  ;}
+
+#next {background-color: pink;
+          margin-top: 50px;
+          margin-bottom: 500px;
+        }
+#next2 {background-color: pink;
+                  margin-top: 50px;
+                  margin-bottom: 500px;
+                }
+
+footer { background-color: pink;
+          color: white;
+          opacity: .7;
+          display:block
+          height: 30px;
+
+}
+
+.gametitle {color: pink;
+            text-align: center;
+           text-shadow: purple;}
